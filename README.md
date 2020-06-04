@@ -51,18 +51,7 @@ Configure Git so that Github can recognize your commits (in Terminal).
 
 - Tip: The gloabl config settings can be accessed and manually edited in `~/.gitconfig`
 
-### 4. Fork the tutorial repository to your account
-
-Fork the tutorial repository to your account through the Github webpage. This makes a copy of the original repository on your account.
-
-- On the [GitHub repo page](https://github.com/InsightDataScience/github-tutorial), in the top right corner of the page under the photo of your account, click the Fork button (see below for example).
-- Select your account when prompted. This should fork the github-tutorial repository to your account.
-
-Tip: If you successfully forked the tutorial repository, you should see the name of the repository as [your user name]/github-tutorial
-
-![git-fork](img/git-fork.png)
-
-### 5. Clone the repository to your local machine
+### 4. Clone the repository to your local machine
 
 Clone this repository (the remote repository) to your local machine.
 
